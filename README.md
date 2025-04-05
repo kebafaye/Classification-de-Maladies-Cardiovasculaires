@@ -1,0 +1,2 @@
+# Classification de Maladies Cardiovasculaires
+ ## 📊 Méthodologie  1. **Chargement et exploration du dataset** 2. **Prétraitement des données** (normalisation, traitement du déséquilibre avec SMOTE) 3. **Modélisation** avec différents algorithmes :    - Régression Logistique    - Arbre de Décision    - Forêt Aléatoire 4. **Évaluation** à l’aide de métriques comme F1-score, courbe ROC, matrice de confusion
